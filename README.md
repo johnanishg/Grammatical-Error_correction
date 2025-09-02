@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Grammatical-Error_correction
 =======
 # Grammar Error Correction (GEC) with T5
